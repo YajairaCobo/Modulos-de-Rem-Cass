@@ -1,13 +1,11 @@
-.carousel-item{
-    width: 50%;
-    height: 250px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-  @media (max-width: 600px) {
-    .carousel-item {
-      height: 280px;
-    }
-  }
+*{
+  margin: 0%;
+  padding: 0%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body{
+  background-color: darksalmon;
+  
+}

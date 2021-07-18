@@ -1,14 +1,16 @@
 import React from 'react'
-import Carrusel from '../Components/CarruselPrincipal/Carrusel';
+
 import MenuDesp from '../Components/MenuDesplegable/MenuDesp';
+import Carrusel from '../Components/CarruselPrincipal/Carrusel';
+import Registro from '../Components/Registro/Registro';
 
 function Inicio() {
     return (
-        <div>
-            <Carrusel/>
-            <MenuDesp/>
+        <div>              
+            <MenuDesp/>   
+            <Carrusel/> 
+            <Registro/>               
         </div>
     )
 }
-
 export default Inicio
