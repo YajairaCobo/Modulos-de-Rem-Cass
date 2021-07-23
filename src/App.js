@@ -2,10 +2,11 @@
 //import { hydrate } from 'react-dom/cjs/react-dom.development';
 //import { createFactory } from 'react';
 import './App.css';
-import Rutas from './Rutas/Rutas';
-//import Inicio from './Paginas/Inicio';
 
-//import FormDatos from './Components/FormDatos';
+import './index.css';
+import './Components/estilos.css';
+
+import Rutas from './Rutas/Rutas';
 
 function App() {
   return (

@@ -19,9 +19,8 @@ export default function Registro() {
   </div>
   <button type="submit" class="btn btn-primary">Aceptar</button> {"  "}
   <button type="button" class="btn btn-outline-danger">Registrar</button>
-
 </form>
-        </div>
+
+</div>
     )
 }
-

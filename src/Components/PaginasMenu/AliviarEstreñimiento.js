@@ -2,7 +2,9 @@ import React from 'react'
 
 function AliviarEstreñimiento() {
     return (
-        <div>
+        <div class="lh-sm" >
+<h5 class="fs-1">Remedios Caseros Para Aliviar el Estreñimiento</h5>
+
              <div class="card mb-3">
   <div class="row g-0" >
     <div class="col-md-4"> 

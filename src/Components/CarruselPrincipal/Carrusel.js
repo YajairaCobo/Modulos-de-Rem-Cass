@@ -17,56 +17,40 @@ function Carrusel() {
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="9" aria-label="Slide 10"></button>
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="10" aria-label="Slide 11"></button>
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="11" aria-label="Slide 12"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="12" aria-label="Slide 13"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="13" aria-label="Slide 14"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="14" aria-label="Slide 15"></button>
   </div>
-
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/Imagenes/imagen1.jpg"  class="img-fluid" width="750px" height="750px"  class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta1.jpg"  class="img-fluid" width="550px" height="550px"  class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen2.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta2.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen3.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta3.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen4.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta4.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen5.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta5.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen6.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta6.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen7.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta7.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen8.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta8.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen9.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta9.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen10.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta10.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="/Imagenes/imagen11.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
-    </div>
-    <div class="carousel-item">
-      <img src="/Imagenes/imagen12.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
-    </div>
-    <div class="carousel-item">
-      <img src="/Imagenes/imagen13.jpg" class="img-fluid" width="7ç50px" height="750px" class="d-block w-100" alt="..."/>
-    </div>
-    <div class="carousel-item">
-      <img src="/Imagenes/imagen14.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
-    </div>
-    <div class="carousel-item">
-      <img src="/Imagenes/imagen15.jpg" class="img-fluid" width="750px" height="750px" class="d-block w-100" alt="..."/>
+      <img src="/Imagenes/planta11.jpg" class="img-fluid" width="550px" height="550px" class="d-block w-100" alt="..."/>
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

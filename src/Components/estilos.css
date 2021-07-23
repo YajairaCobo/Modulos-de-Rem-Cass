@@ -1,11 +1,14 @@
-*{
-  margin: 0%;
-  padding: 0%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
+body { 
+        background-image: url("https://estag.fimagenes.com/imagenesred/11130158.jpg");
+        background-repeat: no-repeat;
+        opacity: '1';
+
+    }
+
 body{
-  background-color: darksalmon;
-  
+    font-style: italic;
+    
+   
 }
+
+body { color: rgb(8, 8, 8); }

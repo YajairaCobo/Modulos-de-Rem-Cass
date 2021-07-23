@@ -1,4 +1,5 @@
 import React from 'react'
+
 import {Link} from 'react-router-dom';
 
 function MenuDesp() {
@@ -22,6 +23,8 @@ function MenuDesp() {
             <li>< Link class="dropdown-item" to="/remediosgarganta">Remedios Para El Dolor De Garganta</Link></li>
             <li>< Link class="dropdown-item" to="/aliviarcolicos">Aliviar Los Colicos</Link></li>
             <li>< Link class="dropdown-item" to="/aliviestreñimiento">Aliviar El Estreñimiento</Link></li>
+            <li>< Link class="dropdown-item" to="/presion">Bajar la Presion Alta</Link></li>
+            <li>< Link class="dropdown-item" to="/jugosnatu">Jugos Naturales</Link></li>
           </ul>
         </li>
       </ul>
